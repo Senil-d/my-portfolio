@@ -18,7 +18,7 @@ The website showcases my projects, technical skills, and contact information.
 - Optimized performance and SEO
 
 ## Live Website
-https://your-portfolio-link.vercel.app
+https://dimalka-wijesundara.vercel.app/
 
 ## Installation
 
